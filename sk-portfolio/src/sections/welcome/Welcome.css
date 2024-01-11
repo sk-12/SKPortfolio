@@ -1,0 +1,19 @@
+.Welcome {
+    flex:1;
+    height:100px;
+    display: flex;
+    /* padding: 8% 0 0; */
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to bottom right,#9BB8CD,#FFF7D4,#EEC759,#B1C381);
+}
+.WelcomeText{
+    color: #176B87;
+    font-size:55px;
+    background-color: red;
+    /* word-wrap: wrap; */
+    width:180px;
+    line-height: 175px;
+    font-weight: 700;
+
+}

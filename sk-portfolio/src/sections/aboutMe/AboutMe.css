@@ -1,0 +1,5 @@
+.AboutMe {
+    flex:1;
+    background: linear-gradient(to bottom right,#9BB8CD,#FFF7D4,#EEC759,#B1C381);
+    height:100px;
+}

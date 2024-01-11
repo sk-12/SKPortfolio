@@ -1,0 +1,35 @@
+.big {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #FFF7D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.small {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #FFF7D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.medium {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #FFF7D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconText {
+    font-weight: 700;
+    color: #176B87;
+    font-size:40px;
+}
